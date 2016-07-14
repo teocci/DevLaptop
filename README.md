@@ -107,7 +107,7 @@ distinguish directories from files when running `ls` by displaying directories
 in a different color. Below is a screenshot showing what the colors look like
 when using the default Terminal white background, the Solarized Dark theme, and the Solarized Light theme.
 
-![Terminal screenshots](http://cl.ly/image/19022S0q3H1b/download/Image%202015-05-12%20at%2011.31.04%20PM.png)
+![Terminal screenshots](http://i.imgur.com/7t4m1th.png)
 
 If you want to use the [Solarized](http://ethanschoonover.com/solarized)
 themes, run the following commands in your Terminal:
