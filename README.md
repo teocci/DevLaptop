@@ -1,4 +1,4 @@
-DevDevLaptop
+DevLaptop
 ======
 
 DevLaptop is a script to set up an OS X computer for web development.
