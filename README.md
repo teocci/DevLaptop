@@ -42,7 +42,7 @@ curl --remote-name https://raw.githubusercontent.com/teocci/DevLaptop/master/mac
 bash mac 2>&1 | tee ~/laptop.log && source ~/.rvm/scripts/rvm
 ```
 
-The [script](https://github.com/monfresh/laptop/blob/master/mac) itself is
+The [script](https://github.com/teocci/DevLaptop/blob/master/mac) itself is
 available in this repo for you to review if you want to see what it does
 and how it works.
 
@@ -54,10 +54,7 @@ need to push code to GitHub.
 
 Once the script is done, quit and relaunch Terminal.
 
-More [detailed instructions with a video][video] are available in the Wiki.
-
 [Spotlight]: https://support.apple.com/en-us/HT204014
-[video]: https://github.com/monfresh/laptop/wiki/Detailed-installation-instructions-with-video
 
 Debugging
 ---------
@@ -65,7 +62,7 @@ Debugging
 Your last DevLaptop run will be saved to a file called `laptop.log` in your home
 folder. Read through it to see if you can debug the issue yourself. If not,
 copy the entire contents of `laptop.log` into a
-[new GitHub Issue](https://github.com/monfresh/laptop/issues/new) for me.
+[new GitHub Issue](https://github.com/teocci/DevLaptop/issues/new) for me.
 Or, attach the whole log file as an attachment.
 
 What it sets up
