@@ -38,7 +38,7 @@ time, then press `return` after each one to download and execute the
 script, respectively:
 
 ```sh
-curl --remote-name https://raw.githubusercontent.com/monfresh/laptop/master/mac
+curl --remote-name https://raw.githubusercontent.com/teocci/DevLaptop/master/mac
 bash mac 2>&1 | tee ~/laptop.log && source ~/.rvm/scripts/rvm
 ```
 
@@ -149,7 +149,7 @@ Customize in `~/.laptop.local`
 cd ~
 
 # Download the sample file to your computer
-curl --remote-name https://raw.githubusercontent.com/monfresh/laptop/master/.laptop.local
+curl --remote-name https://raw.githubusercontent.com/teocci/DevLaptop/master/.laptop.local
 
 # open the file in Sublime Text
 subl .laptop.local
